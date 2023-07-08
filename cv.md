@@ -1,10 +1,12 @@
 
 **Paramonov Leonid**
 --------------------------
-_Contacts_:\
--email: [paramonov.leonid@bk.ru](https://mail.ru/paramonov.leonid@bk.ru)
+_Contacts_: <br>
 
--Discord : **Dratulf**
+-email: [paramonov.leonid@bk.ru](https://mail.ru/paramonov.leonid@bk.ru) <br>
 
--telegram : Paramonov_Leonid
----------------------------
+-Discord : **Dratulf** <br>
+
+-telegram : Paramonov_Leonid <br>
+
+-------------------------
